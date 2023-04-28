@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 12 Apr 2023 12:07 UTC+7
-# Version: 2304121207
-# Blocked: 1,794 domains
+# Last modified: 27 Apr 2023 23:16 UTC+7
+# Version: 2304272316
+# Blocked: 1,792 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -455,7 +455,6 @@
 0.0.0.0 stats.lab.zalo.ai
 #[zaloapp.com]
 0.0.0.0 centralized.zaloapp.com
-0.0.0.0 jp.zaloapp.com
 0.0.0.0 px.dmp.zaloapp.com
 0.0.0.0 px.za.zaloapp.com
 0.0.0.0 stats.dev.zaloapp.com
@@ -1112,9 +1111,6 @@
 0.0.0.0 static.subiz.com
 0.0.0.0 widget.subiz.com
 0.0.0.0 widgetv4.subiz.com
-#[sbz.vn]
-0.0.0.0 api.sbz.vn
-0.0.0.0 widget.sbz.vn
 #[subiz.net]
 0.0.0.0 api.subiz.net
 0.0.0.0 widget.subiz.net
@@ -1457,6 +1453,7 @@
 0.0.0.0 tracking.vtc.vn
 #[vtcnews.vn]
 0.0.0.0 delivery.vtcnews.vn
+0.0.0.0 track.vtcnews.vn
 #[vtcnew.com.vn]
 0.0.0.0 delivery.vtcnew.com.vn
 0.0.0.0 tracking.vtcnew.com.vn
