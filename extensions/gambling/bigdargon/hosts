@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 14 May 2023 23:14 UTC+7
-# Version: 2305142314
-# Blocked: 4,938 domains
+# Last modified: 21 May 2023 23:00 UTC+7
+# Version: 2305212300
+# Blocked: 4,949 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -305,6 +305,7 @@
 0.0.0.0 8game19.com
 0.0.0.0 8game20.com
 0.0.0.0 8icuu.com
+0.0.0.0 8k00000.com
 0.0.0.0 8kbet.app
 0.0.0.0 8kbet.vn
 0.0.0.0 8live.club
@@ -1003,6 +1004,7 @@
 0.0.0.0 fb88you.com
 0.0.0.0 fb88zo.com
 0.0.0.0 fb9.com
+0.0.0.0 fb9fun.com
 0.0.0.0 fbw.11bet.us
 0.0.0.0 fc1.fcb88d.com
 0.0.0.0 fc2.fcb88d.com
@@ -1109,6 +1111,7 @@
 0.0.0.0 go88.com
 0.0.0.0 go88.im
 0.0.0.0 go88.live
+0.0.0.0 go88.luxury
 0.0.0.0 go88.vip
 0.0.0.0 go888.asia
 0.0.0.0 go88b.com
@@ -1234,6 +1237,7 @@
 0.0.0.0 i9bet68.com
 0.0.0.0 i9bet7.com
 0.0.0.0 i9bet71.com
+0.0.0.0 i9bet72.com
 0.0.0.0 i9bet74.com
 0.0.0.0 i9bet75.com
 0.0.0.0 i9bet8.com
@@ -3757,6 +3761,7 @@
 0.0.0.0 sky88.top
 0.0.0.0 sky88.uk
 0.0.0.0 sky88.win
+0.0.0.0 sky88vao.club
 0.0.0.0 sm611.com
 0.0.0.0 smart.8live.com
 0.0.0.0 smart.8live.net
@@ -3806,6 +3811,8 @@
 0.0.0.0 sukien.fcb88.com
 0.0.0.0 sun.to
 0.0.0.0 sun.win
+0.0.0.0 sun52.bid
+0.0.0.0 sun52.click
 0.0.0.0 sun52.tv
 0.0.0.0 sun6.win
 0.0.0.0 sun88.online
@@ -4051,6 +4058,7 @@
 0.0.0.0 vebo.bet
 0.0.0.0 vegas79.casino
 0.0.0.0 vf003.xyz
+0.0.0.0 vf234.com
 0.0.0.0 vfun88.com
 0.0.0.0 vg66.app
 0.0.0.0 vg66.com
@@ -4402,6 +4410,7 @@
 0.0.0.0 www.898bet1.com
 0.0.0.0 www.8day.com
 0.0.0.0 www.8dayclub.com
+0.0.0.0 www.8k00000.com
 0.0.0.0 www.8kbet.vn
 0.0.0.0 www.8live.fun
 0.0.0.0 www.8x055.com
@@ -4605,6 +4614,7 @@
 0.0.0.0 www.i9bet6.com
 0.0.0.0 www.i9bet62.com
 0.0.0.0 www.i9bet71.com
+0.0.0.0 www.i9bet72.com
 0.0.0.0 www.i9bet74.com
 0.0.0.0 www.i9bet75.com
 0.0.0.0 www.i9bet888.com
@@ -4789,6 +4799,7 @@
 0.0.0.0 www.v9betasia.com
 0.0.0.0 www.v9jvn.com
 0.0.0.0 www.vb211.com
+0.0.0.0 www.vf234.com
 0.0.0.0 www.vg66.com
 0.0.0.0 www.vg770.com
 0.0.0.0 www.vg966.com
