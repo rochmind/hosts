@@ -40,7 +40,7 @@ files are provided.
 ## List of all hosts file variants
 
 This repository offers
-[15 different host file variants](https://github.com/StevenBlack/hosts/tree/master/alternates),
+[31 different host file variants](https://github.com/StevenBlack/hosts/tree/master/alternates),
 in addition to the base variant, with and without the unified hosts included.
 
 The **Non GitHub mirror** is the link to use for some hosts file managers like
@@ -149,6 +149,10 @@ pip3 install --user -r requirements.txt
 **Note** we recommend the `--user` flag which installs the required dependencies
 at the user level. More information about it can be found on pip
 [documentation](https://pip.pypa.io/en/stable/reference/pip_install/?highlight=--user#cmdoption-user).
+
+### Option 4: Generate it in Google Colab
+
+Spin up a free remote [Google Colab](https://colab.research.google.com/drive/1tYWXpU2iuPDqN_o03JW9ml3ExO80eBLq?usp=sharing) environment.
 
 ### Common steps regardless of your development environment
 
