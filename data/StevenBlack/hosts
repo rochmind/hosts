@@ -2498,7 +2498,6 @@ analytics.shein.co.uk
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.indexww.com
-0.0.0.0 encrypted-tbn1.gstatic.com
 
 # Added March 25, 2023
 0.0.0.0 wpad.www.tendawifi.com
@@ -2601,3 +2600,6 @@ analytics.shein.co.uk
 # Added June 13, 2023
 0.0.0.0 assistant-chronopost.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
+
+# Added July 4, 2023
+0.0.0.0 stmicroelectronics.d3.sc.omtrdc.net
