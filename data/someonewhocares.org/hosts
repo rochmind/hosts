@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 31 Jan 2024 at 21:52:37 GMT
+# Last updated: Mon, 04 Mar 2024 at 23:19:06 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1628,11 +1628,13 @@ ff02::3		ip6-allhosts
 0.0.0.0 account-review.com
 0.0.0.0 accounts.secure-ua.website
 0.0.0.0 accounts.ukr.net.ssl2.in
+0.0.0.0 accrogers-overview.com
 0.0.0.0 acessoires-electromenager.fr
 0.0.0.0 acglgoa.com
 0.0.0.0 acmen.fr
 0.0.0.0 acnenomor.com
 0.0.0.0 acsentia.fr
+0.0.0.0 activateprofile.info
 0.0.0.0 activebeat.fr
 0.0.0.0 aculo.fr
 0.0.0.0 ad.g-content.bid
@@ -1725,6 +1727,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 audacity.pl
 0.0.0.0 augi.fr
 0.0.0.0 auirbnb.fr
+0.0.0.0 authscotia-signinscotia.com
 0.0.0.0 auto-entrereneur.fr
 0.0.0.0 autohipnose.com
 0.0.0.0 automedik.fr
@@ -1735,6 +1738,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 avosstart.fr
 0.0.0.0 avsvmcloud.com
 0.0.0.0 avtec.fr
+0.0.0.0 awuam.com
 0.0.0.0 azureus.es
 0.0.0.0 b.doloaqywbvq.ru
 0.0.0.0 b.webwise.org
@@ -1757,6 +1761,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 beboncoin.fr
 0.0.0.0 belambre.fr
 0.0.0.0 benchmarkemail.fr
+0.0.0.0 benefitsgov.info
 0.0.0.0 benefitsorganic.com
 0.0.0.0 bergeresdefrance.fr
 0.0.0.0 besacon.fr
@@ -1852,6 +1857,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 canadapost-delivery-reshedule.com
 0.0.0.0 canadapost-paymentservice.com
 0.0.0.0 canadapost-postescanada.uwpackege.top
+0.0.0.0 canadapostarticle.com
 0.0.0.0 capitalregionusa.fr
 0.0.0.0 capostdelivery.com
 0.0.0.0 carac-terres.fr
@@ -1889,6 +1895,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 chrliehebdo.fr
 0.0.0.0 chu-bordeau.fr
 0.0.0.0 chu-morlaix.fr
+0.0.0.0 cibc-oniinecibc.com
 0.0.0.0 cibconline-login.com
 0.0.0.0 cic-epargnrsalariale.fr
 0.0.0.0 cicontents.biz
@@ -1908,6 +1915,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 climate-actionpayment.com
 0.0.0.0 clonezilla.es
 0.0.0.0 clonezilla.fr
+0.0.0.0 cltxhot.fun
 0.0.0.0 cmcre.fr
 0.0.0.0 cndpt.fr
 0.0.0.0 cnhv.co
@@ -2058,6 +2066,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 espub.fr
 0.0.0.0 et-1nt3rc.com
 0.0.0.0 et-interac.etransfers1.com
+0.0.0.0 et-mycostcorewards.info
 0.0.0.0 etdeposit-interac.com
 0.0.0.0 etribunaldunet.fr
 0.0.0.0 euriosport.fr
@@ -2088,6 +2097,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 fanniemae.fr
 0.0.0.0 fasola.fr
 0.0.0.0 fclb.fr
+0.0.0.0 fdoverbilled.com
 0.0.0.0 fedex-rescheduel-date.com
 0.0.0.0 fedex-rescheduel-delivery-date.com
 0.0.0.0 fedgroceryrebate.com
@@ -2203,6 +2213,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 hatdfg-rhgreh684.frge.io
 0.0.0.0 hatrecord.ru				# Facebook trojan
 0.0.0.0 hcg82f2b.com
+0.0.0.0 healpublic.best
 0.0.0.0 hefever.fr
 0.0.0.0 hellomobile.fr
 0.0.0.0 helpmedb.com
@@ -2297,6 +2308,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 jeupicard.fr
 0.0.0.0 jobfreelance.fr
 0.0.0.0 joomlaworks.fr
+0.0.0.0 joshan.fun
 0.0.0.0 juegosdechicas.fr
 0.0.0.0 juliettehasagun.fr
 0.0.0.0 juliyea.sbs
@@ -2615,6 +2627,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 neko-scan.fr
 0.0.0.0 neon-genesis-evangelion-online.fr
 0.0.0.0 neowordprss.fr
+0.0.0.0 netflix-memberships.com
 0.0.0.0 netflix-updateinfo.com
 0.0.0.0 netflix.apple-green.net
 0.0.0.0 netflixca-updateprofilehelp.com
@@ -2622,6 +2635,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 newouest.fr
 0.0.0.0 newsmagic.net
 0.0.0.0 newsquest.fr
+0.0.0.0 nguyennghi.info
 0.0.0.0 niche247.trade
 0.0.0.0 nikeinc.fr
 0.0.0.0 nimes-olympique.fr
@@ -2772,6 +2786,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 pro-accesssoires.fr
 0.0.0.0 probikesshop.fr
 0.0.0.0 proclickpacket.com
+0.0.0.0 profileconfirm.info
 0.0.0.0 profilenetflix.com
 0.0.0.0 profilenotice.info
 0.0.0.0 profit-btc.org
@@ -2797,6 +2812,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 quickchess.fr
 0.0.0.0 quicksaledeal.su
 0.0.0.0 quirinale.fr
+0.0.0.0 qyh.co.ua
 0.0.0.0 radio42.fr
 0.0.0.0 randki-sex.com
 0.0.0.0 raptp.fr
@@ -2874,6 +2890,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 secretosdelagua.fr
 0.0.0.0 secure-accept-e-transfer-interac.info
 0.0.0.0 secure-fidosolutions.com
+0.0.0.0 secure-royaibnk.com
 0.0.0.0 securedeposit-et.com
 0.0.0.0 securielite.com
 0.0.0.0 securityscan.us
@@ -2934,6 +2951,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 speechpad.fr
 0.0.0.0 speedycourse.fr
 0.0.0.0 spotchannel02.com
+0.0.0.0 srothuynguyen.com
 0.0.0.0 ssephora.fr
 0.0.0.0 stackoverflow.xyz
 0.0.0.0 star-iptv.fr
@@ -3002,6 +3020,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 thesimsresource.fr
 0.0.0.0 thetorrentz.fr
 0.0.0.0 thickporter.sa.com
+0.0.0.0 thisone.online
 0.0.0.0 thomasmore.fr
 0.0.0.0 thunderbird.es
 0.0.0.0 tibs.fr
